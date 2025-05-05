@@ -50,4 +50,4 @@ Zomato-Dashboard/
 ---
 ## Contact
 
-For questions or feedback, please open an issue or reach out at `your.email@example.com`.
+For questions or feedback, please open an issue or reach out at `hmsk.tech@gmail.com`.

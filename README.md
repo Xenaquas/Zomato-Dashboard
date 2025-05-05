@@ -7,12 +7,12 @@ A lightweight Power BI dashboard designed to uncover key trends and insights fro
 
 ```
 Zomato-Dashboard/
-├── dashboard/                       # Power BI source file
+├── dashboard/                      
 │   └── Zomato_Insights_Dashboard.pbix
-├── data/                            # Raw and processed data files (e.g., CSV, Excel)
-├── exports/                         # Exported reports and visual snapshots (PDF, PNG)
-├── README.md                    # This file
-└── resources/                       # Supporting assets (images, logos)
+├── data/                            
+├── exports/                       
+├── README.md                    
+└── resources/                       
 ```
 
 ## Getting Started
